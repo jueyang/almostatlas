@@ -1,0 +1,23 @@
+.reveal {
+  overflow-x: hidden;
+  /*overflow-y:scroll;*/ }
+  .reveal .slides > section {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: auto; }
+  .reveal h1, .reveal h2, .reveal h3, .reveal p, .reveal ul, .reveal ol, .reveal li, .reveal a {
+    font-weight: 400;
+    text-align: left; }
+  .reveal h1, .reveal h2, .reveal h3 {
+    font-family: "Six Caps", sans-serif; }
+  .reveal p, .reveal ul, .reveal ol, .reveal li, .reveal a {
+    font-family: "EB Garamond", serif; }
+  .reveal a {
+    color: #aaa; }
+  .reveal h1 {
+    font-size: 1.5em; }
+  .reveal h2 {
+    font-size: 0.75em; }
+
+/*# sourceMappingURL=site.css.map */
