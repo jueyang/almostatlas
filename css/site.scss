@@ -1,3 +1,46 @@
+$link: #A86BEC;
+$control: #FFF;
+
+/* no scroll showing */
+::-webkit-scrollbar {
+    width: 0em;
+    display:none;
+}
+
+::-webkit-scrollbar-track {
+  width: 0;
+}
+
+::-webkit-scrollbar-thumb {
+  width:0;
+}
+
+h1, h2, h3 {
+  font-family:"Six Caps", sans-serif;
+  a {font-family: inherit;}
+}
+
+p, ul, ol, li, a {
+  font-family:"EB Garamond", serif;
+}
+
+.constant {
+  position:absolute;
+  bottom:1em;
+  right:1em;
+  z-index:100;
+}
+
+.pre-wrap {
+  /* preserves white space for poems*/
+  white-space: pre-wrap;
+}
+
+.right {
+  text-align:right;
+  padding-right:1em;
+}
+
 .reveal {
 
   overflow-x:hidden;
@@ -5,7 +48,8 @@
 
   .slides > section {
     height:100%;
-    width:100%;
+    width:70%;
+    margin:0 15%;
     overflow-x:hidden;
     overflow-y:auto;
   }
@@ -17,14 +61,11 @@
 
   h1, h2, h3 {
     font-family:"Six Caps", sans-serif;
+    a {font-family: inherit;}
   }
 
   p, ul, ol, li, a {
     font-family:"EB Garamond", serif;
-  }
-
-  a {
-    color:#aaa;
   }
 
   h1 {
@@ -34,4 +75,26 @@
   h2 {
     font-size:0.75em;
   }
+
+  p {
+    margin-top:0;
+    font-size:0.75em;
+  }
+
+  a {
+    color:#444;
+  }
+
+  small {
+    display:block;
+    font-family:"Six Caps", sans-serif;
+    font-size:0.6em;
+    cursor:pointer;
+
+    span {
+      display:inline-block;
+      width:30px;
+    }
+  }
+
 }

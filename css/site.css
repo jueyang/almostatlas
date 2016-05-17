@@ -1,9 +1,43 @@
+/* no scroll showing */
+::-webkit-scrollbar {
+  width: 0em;
+  display: none; }
+
+::-webkit-scrollbar-track {
+  width: 0; }
+
+::-webkit-scrollbar-thumb {
+  width: 0; }
+
+h1, h2, h3 {
+  font-family: "Six Caps", sans-serif; }
+  h1 a, h2 a, h3 a {
+    font-family: inherit; }
+
+p, ul, ol, li, a {
+  font-family: "EB Garamond", serif; }
+
+.constant {
+  position: absolute;
+  bottom: 1em;
+  right: 1em;
+  z-index: 100; }
+
+.pre-wrap {
+  /* preserves white space for poems*/
+  white-space: pre-wrap; }
+
+.right {
+  text-align: right;
+  padding-right: 1em; }
+
 .reveal {
   overflow-x: hidden;
   /*overflow-y:scroll;*/ }
   .reveal .slides > section {
     height: 100%;
-    width: 100%;
+    width: 70%;
+    margin: 0 15%;
     overflow-x: hidden;
     overflow-y: auto; }
   .reveal h1, .reveal h2, .reveal h3, .reveal p, .reveal ul, .reveal ol, .reveal li, .reveal a {
@@ -11,13 +45,26 @@
     text-align: left; }
   .reveal h1, .reveal h2, .reveal h3 {
     font-family: "Six Caps", sans-serif; }
+    .reveal h1 a, .reveal h2 a, .reveal h3 a {
+      font-family: inherit; }
   .reveal p, .reveal ul, .reveal ol, .reveal li, .reveal a {
     font-family: "EB Garamond", serif; }
-  .reveal a {
-    color: #aaa; }
   .reveal h1 {
     font-size: 1.5em; }
   .reveal h2 {
     font-size: 0.75em; }
+  .reveal p {
+    margin-top: 0;
+    font-size: 0.75em; }
+  .reveal a {
+    color: #444; }
+  .reveal small {
+    display: block;
+    font-family: "Six Caps", sans-serif;
+    font-size: 0.6em;
+    cursor: pointer; }
+    .reveal small span {
+      display: inline-block;
+      width: 30px; }
 
 /*# sourceMappingURL=site.css.map */
