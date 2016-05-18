@@ -1,6 +1,3 @@
-$link: #A86BEC;
-$control: #FFF;
-
 /* no scroll showing */
 ::-webkit-scrollbar {
     width: 0em;
@@ -26,9 +23,13 @@ p, ul, ol, li, a {
 
 .constant {
   position:absolute;
-  bottom:1em;
+  top:1em;
   right:1em;
   z-index:100;
+
+  .control {
+    margin-top:1em;
+  }
 }
 
 .pre-wrap {
@@ -41,6 +42,24 @@ p, ul, ol, li, a {
   padding-right:1em;
 }
 
+#logo {
+  display:block;
+  width:100px;
+  height:100px;
+  background: url('../logo.png');
+  background-size: cover;
+}
+/* introjs */
+.introjs-helperNumberLayer {
+  background: #aaa;
+}
+
+.introjs-tooltip {
+  font-family:"EB Garamond", serif;
+  line-height:1.45em;
+}
+
+/* reveal js */
 .reveal {
 
   overflow-x:hidden;
@@ -52,6 +71,10 @@ p, ul, ol, li, a {
     margin:0 15%;
     overflow-x:hidden;
     overflow-y:auto;
+  }
+  section img {
+    border:none;
+    box-shadow:none;
   }
 
   h1, h2, h3, p, ul, ol, li, a {
@@ -89,6 +112,7 @@ p, ul, ol, li, a {
     display:block;
     font-family:"Six Caps", sans-serif;
     font-size:0.6em;
+    letter-spacing: 0.1em;
     cursor:pointer;
 
     span {
@@ -97,4 +121,27 @@ p, ul, ol, li, a {
     }
   }
 
+}
+
+@media screen and (max-width: 600px) {
+  .constant {
+    .control {margin-top:0;}
+  }
+
+  #logo {
+    width:60px;
+    height:60px;
+  }
+  .reveal small {
+    visibility: hidden;
+    display: inline-block;
+    margin-right:0.6em;
+    font-size:0.45em;
+
+    p {
+
+      visibility:visible;
+    }
+  }
+  #help {display: none;}
 }

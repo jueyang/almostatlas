@@ -16,10 +16,10 @@
 
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/white.css" id="theme">
-		<link rel="stylesheet" href="css/site.css">
 		<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Six+Caps|EB+Garamond'>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.1.0/intro.min.js"></script>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.1.0/introjs.min.css">
+		<link rel="stylesheet" href="css/site.css">
+
 		<!--[if lt IE 9]>
 		<script src="lib/js/html5shiv.js"></script>
 		<![endif]-->
@@ -27,16 +27,23 @@
 
 	<body>
 		<div class="reveal">
-			<div class='constant'>
-				<small onclick="Reveal.prev();"><span>←</span>Prev</small>
-				<small onclick="Reveal.next();"><span>→</span>Next</small>
-				<small onclick="goToIndex();"><span>↺</span>Index</small>
-				<small onclick="Reveal.toggleOverview();"><span>∞</span>Overview</small>
+			<div class="constant">
+				<small onclick="goToIndex();" id="step1">
+					<p id="logo"></p>
+					<p>Issue 6 - Season 1</p>
+				</small>
+				<div class="control">
+					<small onclick="Reveal.prev();" id="step2"><span>←</span>Prev</small>
+					<small onclick="Reveal.next();" id="step3"><span>→</span>Next</small>
+					<small onclick="Reveal.toggleOverview();" id="step4"><span>∞</span>Overview</small>
+				</div>
+				<div class="control">
+					<small id="help" onclick="startIntro();">Help</small>
+				</div>
 			</div>
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 				<section>
-					<p>Atlas Review. Issue 6. Season 1.</p>
 					<h1><a style="background-color:#D0FFFD" href="#/2">dating dysphoric</a></h1>
 					<h1><a style="background-color:#D4D9FF" href="#/3">brachial artery</a>, <a style="background-color:#D4D9FF" href="#/4">creation myth</a></h1>
 					<h1><a style="background-color:#F5D5FF" href="#/4">men and women in the town</a></h1>
@@ -89,9 +96,11 @@
 			</div>
 		</div>
 		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
+		<script src="js/reveal.min.js"></script>
+		<script src="js/intro.min.js"></script>
 
 		<script>
+
 			function goToIndex(){
 				if (Reveal.isOverview() === true){
 					Reveal.toggleOverview();
@@ -100,8 +109,37 @@
 					Reveal.slide(0);
 				}
 			}
-			// Full list of configuration options available at:
-			// https://github.com/hakimel/reveal.js#configuration
+
+			function startIntro(){
+				var intro = introJs();
+				intro.setOptions({
+					'showBullets': false,
+					'steps': [
+						{
+							element: '#step1',
+							intro: 'Click or tap here to return to the index page.',
+							position: 'left'
+						},
+						{
+							element: '#step2',
+							intro: 'Click, tap, or use the left arrow key for the previous page.',
+							position: 'left'
+						},
+						{
+							element: '#step3',
+							intro: "Click, tap, or use the right arrow key for the next page.",
+							position: 'left'
+						},
+						{
+							element: '#step4',
+							intro: 'Use arrow keys to navigate the overview. If you are on a phone. swipe!',
+							position: 'left'
+						}
+					]
+				});
+				intro.start();
+			}
+
 			Reveal.initialize({
 				controls: false,
 				progress: false,
