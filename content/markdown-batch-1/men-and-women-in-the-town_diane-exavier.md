@@ -2,7 +2,7 @@
 
 ## Diane Exavier
 
-## Chapters >>> [1](/#/6) [2](/#/7) [3](/#/8) [4](/#/9) [5](/#/10) [6](/#/11) [7](/#/12)
+## Chapters >>> [1](#/6) [2](#/7) [3](#/8) [4](#/9) [5](#/10) [6](#/11) [7](#/12)
 
 "Do you ever wonder why some people blow things up?"
 
