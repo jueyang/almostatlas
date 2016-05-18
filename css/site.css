@@ -24,6 +24,15 @@ p, ul, ol, li, a {
   z-index: 100; }
   .constant .control {
     margin-top: 1em; }
+  .constant small {
+    display: block;
+    font-family: "Six Caps", sans-serif;
+    font-size: 0.6em;
+    letter-spacing: 0.1em;
+    cursor: pointer; }
+    .constant small span {
+      display: inline-block;
+      width: 30px; }
 
 .pre-wrap {
   /* preserves white space for poems*/
@@ -79,28 +88,42 @@ p, ul, ol, li, a {
     font-size: 0.75em; }
   .reveal a {
     color: #444; }
-  .reveal small {
-    display: block;
-    font-family: "Six Caps", sans-serif;
-    font-size: 0.6em;
-    letter-spacing: 0.1em;
-    cursor: pointer; }
-    .reveal small span {
-      display: inline-block;
-      width: 30px; }
 
 @media screen and (max-width: 600px) {
   .constant .control {
     margin-top: 0; }
-  #logo {
-    width: 60px;
-    height: 60px; }
-  .reveal small {
+  .constant small {
     visibility: hidden;
     display: inline-block;
     margin-right: 0.6em;
     font-size: 0.45em; }
-    .reveal small p {
+    .constant small p {
       visibility: visible; }
-  #help {
-    display: none; } }
+  #logo {
+    width: 60px;
+    height: 60px; } }
+
+@media screen and (max-width: 480px) {
+  /*
+  .constant, .constant small p {
+    visibility:hidden;
+    z-index:-1;
+  }
+
+  .reveal {
+    .slides {
+      top:2em;
+      height:1000px!important;
+      transform: translate(-50%, -50%) scale(0.4)!important;
+    }
+
+    h1 {
+      font-size:2.5em;
+    }
+
+    h2 {
+      font-size:2em;
+    }
+
+  }
+*/ }

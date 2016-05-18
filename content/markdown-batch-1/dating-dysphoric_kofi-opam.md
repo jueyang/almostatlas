@@ -1,7 +1,6 @@
 # Dating Dysphoric
 ## Kofi Opam
 
-
 Over the phone today, my therapist asks me, the way she always asks me, how I'm feeling. I tell her I'm feeling confused; I've been living in Seattle for the past three weeks and somehow, life here is feeling more and more translucent, foggy. I don't tell her I'm standing on a roof of some condo in Capitol Hill, watching cottony clouds roll westward towards the Space Needle.
 
 It's been three months since I had top surgery, and sometimes I dream of the first time I saw my  post-op reflection in the surgeon's office, all blood and suture and broken flesh. The dusty mirror burst open in a snowflake flurry of becoming, and when the glass stitched itself back together again in my image, my eyes swam with tears. Sometimes I stare at my reflection in the mirror for entire minutes, and sometimes, for brief moments, God's image blinks back at me.

@@ -30,6 +30,18 @@ p, ul, ol, li, a {
   .control {
     margin-top:1em;
   }
+  small {
+    display:block;
+    font-family:"Six Caps", sans-serif;
+    font-size:0.6em;
+    letter-spacing: 0.1em;
+    cursor:pointer;
+
+    span {
+      display:inline-block;
+      width:30px;
+    }
+  }
 }
 
 .pre-wrap {
@@ -108,40 +120,52 @@ p, ul, ol, li, a {
     color:#444;
   }
 
-  small {
-    display:block;
-    font-family:"Six Caps", sans-serif;
-    font-size:0.6em;
-    letter-spacing: 0.1em;
-    cursor:pointer;
-
-    span {
-      display:inline-block;
-      width:30px;
-    }
-  }
-
 }
 
 @media screen and (max-width: 600px) {
   .constant {
     .control {margin-top:0;}
+
+    small {
+      visibility: hidden;
+      display: inline-block;
+      margin-right:0.6em;
+      font-size:0.45em;
+
+      p {
+        visibility:visible;
+      }
+    }
   }
 
   #logo {
     width:60px;
     height:60px;
   }
-  .reveal small {
-    visibility: hidden;
-    display: inline-block;
-    margin-right:0.6em;
-    font-size:0.45em;
+}
 
-    p {
-
-      visibility:visible;
-    }
+@media screen and (max-width: 480px) {
+/*
+  .constant, .constant small p {
+    visibility:hidden;
+    z-index:-1;
   }
-  #help {display: none;}
+
+  .reveal {
+    .slides {
+      top:2em;
+      height:1000px!important;
+      transform: translate(-50%, -50%) scale(0.4)!important;
+    }
+
+    h1 {
+      font-size:2.5em;
+    }
+
+    h2 {
+      font-size:2em;
+    }
+
+  }
+*/
 }
