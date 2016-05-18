@@ -26,15 +26,18 @@ module.exports = function(grunt) {
 				banner: '<%= meta.banner %>\n'
 			},
 			build: {
-				src: 'js/reveal.js',
-				dest: 'js/reveal.min.js'
+				files: {
+					'js/reveal.min.js':['js/reveal.js'],
+					'js/intro.min.js':['js/intro.js']
+				}
 			}
 		},
 
 		sass: {
 			core: {
 				files: {
-					'css/reveal.css': 'css/reveal.scss'
+					'css/reveal.css': 'css/reveal.scss',
+					'css/site.css': 'css/site.scss'
 				}
 			},
 			themes: {
@@ -59,7 +62,8 @@ module.exports = function(grunt) {
 		cssmin: {
 			compress: {
 				files: {
-					'css/reveal.min.css': [ 'css/reveal.css' ]
+					'css/reveal.min.css': [ 'css/reveal.css' ],
+					'css/introjs.min.css': ['css/introjs.css']
 				}
 			}
 		},
@@ -125,7 +129,7 @@ module.exports = function(grunt) {
 				tasks: 'css-themes'
 			},
 			css: {
-				files: [ 'css/reveal.scss' ],
+				files: [ 'css/reveal.scss', 'css/site.scss' ],
 				tasks: 'css-core'
 			},
 			html: {
