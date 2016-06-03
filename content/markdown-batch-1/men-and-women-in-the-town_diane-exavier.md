@@ -51,11 +51,17 @@ Though Serge has convinced himself of the secret lives of wall geese and often t
 While no one is looking, for all the men of the town are at the Hot Hot House (and the women have left their cool corners to tip-toe around their homes and cut onions and clean meat and make beds), Mr. Dixon walks up a path to a small cottage. (It is a sunny day and rays of light evenly hit the grass Agatha, who lives in this small house, asks the sky to water.) The day’s light is fair and doesn’t judge, turning everything, in equity, just a shade darker than Mr. Dixon’s skin, as if Mr. Dixon had wet his clean shaven face with the juices of oranges and lemons and limes and grapefruits and let it dry. That’s the kind of light shining out of the sky today. (Hearing ungraceful thuds plodding closer and closer to her door, Agatha goes out onto her porch to see and meet Mr. Dixon, who is standing at the top of her steps. She thinks it rude, but not odd, that he has already made himself this comfortable, already crossed one of her thresholds, standing there in all of his presence holding a bunch of bananas that he will try to—and succeed at—selling her. She rolls her eyes at the inevitability of this, this monotony of disappointment and lack of surprise, as constant and even as the sun that shines down on her house and skin every day, except for when it rains.)
 
 “Hello there,” Mr. Dixon smiles loudly.
+
 “Hi.” (Agatha beholds him with an immediate silence.)
+
 “Glorious day to be eating fruit the same color as the light in the sky, isn’t it?”
+
 “I suppose so.”
+
 “Would you like to buy some bananas?”
+
 “How much?”
+
 “I’ll give you a great deal. I promise.”
 
 (Agatha does not need to buy bananas, but she participates in the transaction anyway because, honestly, what else is there to do? There have been lots of days, hundreds, even thousands, when she did not buy bananas and it was fine. She was not that hungry and her heart still beat and her breath continued to flow in and out and her chest rose and fell and the hair on her head grew very slowly and the hair on her legs hardly grew at all and the hair in other places—except for her arms, which were practically bald—grew so much faster than she could pick up a razor. She didn’t even really like to eat bananas. She didn’t hate them, didn’t strongly dislike them; they did not nauseate her or swell her tongue. She was not allergic to bananas. Bananas grew, and still continue to grow, in her front yard, the yard she shares with her neighbors because people in this town are not interested in lines of demarcation. They are hardly interested in lines. Everyone here, like everyone in the world, even men who go to Municipal Castles all over the globe, is born with fluidity in and around their bones, like marrow and blood, flowing constant and unrelenting in the body.)
@@ -70,8 +76,12 @@ Mr. Dixon stands next to Agatha and with zealous assurance says, “You sure lik
 (Mr. Dixon is telling Agatha something she already knows. She heard him, before he plodded to the top of her stairs, cut the bananas from the tree in her and her neighbors’ front yard. She hears him do this every other morning. She used to hear Mr. Dixon, or his brother or someone who could be his brother, or maybe his father, march down to the river every day at sundown and fill giant tubs with water that he would drive home in his car, freeze overnight, and sell as fresh ice in the morning.)
 
 “Oh, I had no idea!” (Agatha yells and lies.)
+
+
 “Yeah! Bananas—and all foods, really—are better when they’re local.”
+
 “That’s fascinating and useful information.”
+
 “I’m giving you that for free.”
 
 Mr. Dixon, still standing at Agatha’s side, figures he should mind his manners and not sit in one of the two empty chairs on her porch. He decides to wait for a sign and when it does not look like she is sending one, at least not right now, not today, he employs a patience that he has cultivated over years of getting everything he wanted and some things he didn’t even know he needed. Being able to distinguish between the two is how he learned patience. With a sigh and another smile, he bids Agatha a good afternoon, turning to leave without looking back because he is absolutely confident in his return and has no worry that his life might just stop, that it could just end. These are not concerns for Mr. Dixon because his life is so his.
@@ -91,13 +101,22 @@ Mr. Dixon, still standing at Agatha’s side, figures he should mind his manners
 With his head between Josette’s knees, Alain’s ears are covered, so he doesn’t quite hear her when she asks, “Do you remember?” The bits of language, what he thinks he’s heard and what it would make sense he’s heard, don’t come together until many moments later, when he’s moved his face up to her breasts and holds one in his mouth. He realizes that she has asked him if he remembers. And since she said “do” and not “did,” he rules out any notion that she is testing his completion of a probably forgotten task. So what could she be saying? “Do you remember…Do you remember what,” Alain mumbles to himself with Josette’s other breast in his mouth now. He can’t think and suck at the same time, so he finally asks her:
 
 “Do I remember?”
+
 “Do you remember the first time.”
+
 “Oh, do I remember the first time? Do I, do I…”
+
 “I reminisce—”
+
 “I recall you asking me to swim up into you, all the way up into you. Remind me how you begged—”
+
 “Gently requested—”
-“Pleaded with me to get lost in your darkness. I remember you suggesting that I find my way through touch and texture and taste and sound. I remember you telling me that if I felt like I was running into trouble I probably was and that I should panic. I remember you hoping I would panic, just a little.”
+
+“Pleaded with me to get lost in your darkness. I remember you suggesting that I find my way through touch and texture
+and taste and sound. I remember you telling me that if I felt like I was running into trouble I probably was and that I should panic. I remember you hoping I would panic, just a little.”
+
 “Just a tad. And then?”
+
 “And then I can’t recollect how I got out, but I did. I eased my way back into life. For a second there I thought I was going to die. I couldn’t see and I couldn’t breathe. You were surrounding me. But a sliver of light from the crescent moon in the black sky crawled into your bed and I grabbed it to guide myself. And then we both slept so hard.”
 
 (With her eyes closed, Josette smiles when Alain finally puts his wet mouth on hers. She almost weeps, continuing to imagine and trying to relive that night so many years ago, when things were good and right and new and fresh and theirs and he wasn’t a man and she wasn’t a woman—at least not in the way the men in the Municipal Castle think—and they were so completely committed to discovering each other for no other reason than each was an other, a strange and present god, that the other felt a deep and fearless desire to approach.
@@ -123,13 +142,21 @@ Eight years after he had first made music with the bones, Serge returned to the 
 After hearing the “clack-clack-clack-clack-clack-clack-clack-clack” of the wall geese or the men being whipped or the rain against his house, Serge splashed water on his face, drank a cup of coffee, and walked straight through town to the sea. He was in such a rush that he forgot about his spirit levels and no one heard him singing to uncle about how low they were. When he arrived at the shore, just like in his dream, a young woman—a little girl, really—popped out of a piece of wreckage screaming, “Uncle!” Serge was not her uncle and it didn’t appear as if she had named him so, saying the word as quickly and freely as she could have said, “sky” or “cloud” or “cigar.” After a moment of silence, the little girl said some other words: “bridge float bulldoze cylinder.” So delighted was he by her freedom with words, her refusal to build things like sentences or walls with them, the way she pulled words out of an air seemingly foreign to this town, that Serge picked up two bones, just like he did that morning eight years ago, and knocked them against the other bones. This made the little girl squeal with so much joy that she stopped saying words and started making sounds, running around the shipwreck and dancing. Serge started to dance, too, knocking more bones, knocking air, even knocking the wreckage, its crumbles adding yet another layer to their symphony.
 
 (When they were both breathless, the little girl said, “I am Krystal. Who are you?”
+
 “I am Serge.”
+
 “Serge holds the bones and beats the music from the bones and beats the music from the sky and lifts the dance out of me.”
+
 “Krystal makes clear all the words in the world and the sounds in the world that help me make music in this town.”
+
 “You are my friend, Serge.”
+
 “Yes, Krystal, I am your friend.”
+
 “That’s so nice.”
+
 “It is.”
+
 “You should go now. I’ll stay by myself a little longer.”)
 
 The closest of friends since that morning four years ago, Serge and Krystal have a standing appointment every third Sunday when they walk together to the Municipal Castle. Serge offers her the same advice every time: “Always sit or stand to the left of a man’s eye; that way, he’ll never see you. And don’t spend too much time in the Hot Hot House. You’ll turn into a wrinkled mango, or ever worse, dried leaves to be boiled in water for tea.”
@@ -143,18 +170,27 @@ The closest of friends since that morning four years ago, Serge and Krystal have
 Something like that had happened yesterday afternoon, when, while they were taking a walk, Mr. Dixon decided he was hungry and asked Agatha if she would join him for a meal. Agatha obliged, checking in with her stomach and noticing that she was also hungry, starving actually, but had been so surprisingly caught in the rhythm of the walk they were on that she had forgotten she would have to, at some point, feed herself. So Agatha and Mr. Dixon stopped at a small pastry shop where sandwiches were also made and ordered two of each: sandwiches and pastries. Reading the menu, Agatha saw that the sandwich she wanted to order came with a side of pickles. She did not like pickles, hated them, actually, could never lie about loving them, but decided to order the sandwich anyway because she knew Mr. Dixon relished pickles, had ordered two pickle plates at a restaurant where they once had dinner, and therefore would not pause or hold his delight before eating every single pickle on her plate. When the food arrived, Agatha was disappointed to discover that there were also pickles on the inside of the sandwich, but still slowly picked them out to gift to Mr. Dixon.
 
 “I hate pickles,” Agatha said, peeling the slimy green slices away from the bread.
+
 “I love them,” Mr. Dixon expectedly replied. He surprisingly followed up with, “How can you hate pickles? I thought they were a staple in this town.”
 
 Agatha shot Mr. Dixon a stupefying look. She was pretty good at going with the flow, at tempering her small and steady ripples in any larger and changing current, but this she did not see coming. It did not make any kind of sense, this planting of pickles in her town; yet she tried anyway to form a path between this moment and where he had received this information. When she couldn’t do it, when she was at a complete loss, when the path from here to there would not show up, she asked him:
 
 ”Who told you that?”
+
 “Didn’t you?”
+
 “I wouldn’t tell you something so completely untrue. At least not about pickles.”
+
 “Would you lie to me about other things?”
+
 “That’s not really the point. I’m trying to find out how you got it in your head that pickles are a food this town is famous for when there is no basis for such an idea.”
+
 “Someone told me. I don’t remember.”
+
 “I just can’t imagine someone from here telling you that. It doesn’t compute.”
+
 “I don’t know. I guess I heard it somewhere. Can I still have your pickles?”
+
 “Yes. Sure. Of course.”
 
 Agatha sat there eating her sandwich, watching Mr. Dixon eat his sandwich and her pickles she did not want, the pickles she hated, the pickles she longed to launch into outer space, into another place far away from this town, lest anyone presume they were a local and popular food product.
@@ -174,167 +210,331 @@ Every time Mr. Dixon comes he tells Agatha he loves her, or more precisely, that
 When she is older, Krystal will move far away from the town, to another town where the ruins of Municipal Castles still stand, and let men, one at a time, sleep in her bed. All through the night their forearms, wrists, hands, fingers, feet, and toes will touch. She will sync her breath with theirs. Their knees will fit into the backs of her knees. She will nestle her head in their chests. In the mornings, when she is wide-awake and the men are still waking, she will throw her arm across their chests and say,
 
 “I was so sick last night,
+
 like pregnant in the bottom of the belly,
+
 like the consequence of a sin not committed,
+
 like not even getting anything out of it.
+
 And why?
+
 And why?
+
 And why?
+
 I was just so sick and hot last night,
+
 like a bloated whale with no chill,
+
 like a pregnant sea lion with no chill,
+
 like an expecting mermaid who can’t chill.
+
 For what?
+
 For what?
+
 For what?
+
 I make up
+
 and fashion
+
 out of twigs and
+
 too short legs
+
 brinks to throw my self against,
+
 pillars to potentially drive into me.
+
 These brinks and pillars ask:
+
 Don’t you ever get embarrassed?
+
 Aren’t you ashamed?
+
 They warn:
+
 You should be worried that someone might
+
 hear
+
 or even
+
 see
+
 you.
+
 I don’t want to be pregnant with this anymore.
+
 It’s no fun.
+
 It makes me uncomfortable,
+
 untouchable.
+
 No one wants to stand in me
+
 or in front of me.
+
 They’ll stand near me, though,
+
 next to me,
+
 at my side,
+
 to my right,
+
 or even farther away,
+
 for fear
+
 that I might
+
 squeeze
+
 too much
+
 or lean
+
 too hard,
+
 in comfort
+
 that I’ll always be there,
+
 like the moon.
+
 I am always waning,
+
 like your moon.
+
 It gets dark at night.
+
 I covered your eyes with history.
+
 I covered your lips,
+
 your mouth,
+
 your words,
+
 your arms,
+
 your feet,
+
 your legs,
+
 your tongue,
+
 your hair,
+
 your ears,
+
 your nose,
+
 your chest,
+
 your elbows,
+
 your knees,
+
 your hands,
+
 your fingers,
+
 your toes,
+
 your wrists,
+
 your teeth,
+
 your intentions.
+
 I can’t even see you.
+
 It’s so bright out and I have no idea who you are.
+
 What do I look like?
+
 What do I look like to you?
+
 And how did you reveal
+
 my face,
+
 my scalp,
+
 my ankles,
+
 my back,
+
 my breasts,
+
 my ass,
+
 my stomach,
+
 my thighs?
+
 What did they look like?
+
 What did they look like to you?
+
 Where do I know you from?
+
 Is our unrecollected past why I’ve welcomed you into my bed?
+
 What do you remind me of?
+
 You are not strange.
+
 Rains of May have always been gentle.
+
 They don’t hurt.
+
 Maybe you used to sell me ice.
+
 Maybe I always knew it would melt.
+
 Maybe I used to leave it out in the sun
+
 Dripping,
+
 waiting,
+
 starting over again.
+
 Maybe we never spoke.
+
 Maybe you used to sell me bananas.
+
 Maybe I grew them in my own front yard
+
 and watched you cut them loose from my tree,
+
 walk up to my door,
+
 and offer me fruit that was already mine at a reasonable discount.
+
 Maybe you were a good businessman.
+
 Maybe I was your best customer.
+
 Maybe we built an economy,
+
 that, unfortunately,
+
 withstood the test of time.
+
 Maybe we passed the exams of time,
+
 to both our detriments,
+
 with flying colors.
+
 The latest you’ve got for me
+
 is nothing
+
 at all
+
 in bulk.
+
 But I already have
+
 cartons
+
 and boxes
+
 and bottles
+
 and vessels
+
 and vases
+
 and tubs
+
 and pots
+
 and cauldrons
+
 full of nothing.
+
 People have been coming to my door with that for years.
+
 The rains of May might kidnap me
+
 And bring me out to sea.
+
 Take me to July—
+
 no,
+
 November!
+
 That’s where it really started…
+
 But please,
+
 tell me about this ice!
+
 These bananas!
+
 This nothing!
+
 How cold!
+
 How sweet!
+
 How empty!
+
 I’ll take a few pounds of each.
+
 It’s always such a pleasure doing business with you.
+
 You are such a strangely familiar pressure.
+
 Do you ever wonder why people blow things up?
+
 Can you imagine the shrapnel?
+
 Tiny bits
+
 of ice,
+
 of bananas,
+
 of nothing.
+
 Melted
+
 ice
+
 burnt
+
 bananas
+
 always
+
 nothing.
+
 What does this look like?
+
 What does this look like to you?
+
 To make this smoothie
+
 I need
+
 ice,
+
 bananas,
+
 and nothing.
+
 How does that sound?
+
 How does that sound to you?”

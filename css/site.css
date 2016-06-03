@@ -9,13 +9,19 @@
 ::-webkit-scrollbar-thumb {
   width: 0; }
 
-h1, h2, h3 {
-  font-family: "Six Caps", sans-serif; }
-  h1 a, h2 a, h3 a {
-    font-family: inherit; }
+/* indent */
+.none {
+  text-indent: 0% !important; }
 
-p, ul, ol, li, a {
-  font-family: "EB Garamond", serif; }
+/* for first paragraphs in proses */
+.left {
+  text-indent: 10%; }
+
+.middle {
+  text-indent: 20%; }
+
+.right {
+  text-indent: 40%; }
 
 .constant {
   position: absolute;
@@ -33,14 +39,6 @@ p, ul, ol, li, a {
     .constant small span {
       display: inline-block;
       width: 30px; }
-
-.pre-wrap {
-  /* preserves white space for poems*/
-  white-space: pre-wrap; }
-
-.right {
-  text-align: right;
-  padding-right: 1em; }
 
 #logo {
   display: block;
@@ -60,16 +58,21 @@ p, ul, ol, li, a {
 /* reveal js */
 .reveal {
   overflow-x: hidden;
-  /*overflow-y:scroll;*/ }
+  /*overflow-y:scroll;*/
+  /* special font for italics */
+  /* treat white space differently, prose vs poem*/ }
   .reveal .slides > section {
     height: 100%;
-    width: 70%;
+    width: 75%;
     margin: 0 15%;
     overflow-x: hidden;
     overflow-y: auto; }
   .reveal section img {
     border: none;
     box-shadow: none; }
+  .reveal em {
+    font-family: 'IM Fell DW Pica', serif !important;
+    font-size: 0.85em !important; }
   .reveal h1, .reveal h2, .reveal h3, .reveal p, .reveal ul, .reveal ol, .reveal li, .reveal a {
     font-weight: 400;
     text-align: left; }
@@ -84,8 +87,17 @@ p, ul, ol, li, a {
   .reveal h2 {
     font-size: 0.75em; }
   .reveal p {
-    margin-top: 0;
-    font-size: 0.75em; }
+    display: block;
+    font-size: 0.7em;
+    margin: 1.3em 0 0 0;
+    /* for indents */ }
+    .reveal p span {
+      display: inline-block; }
+  .reveal section.prose p {
+    white-space: pre-wrap;
+    /*text-indent:1.3em;*/ }
+  .reveal section.poem p {
+    white-space: pre; }
   .reveal a {
     color: #444; }
 

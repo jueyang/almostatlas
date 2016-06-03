@@ -1,9 +1,9 @@
 # Self on the first date
-## Shauna Babosa
+## Shauna Barbosa
 
 1.
 
-You need the sun if you want to stop
+<p>You need the sun if you want to stop
 fast action. The sun wins every single time.
 The way it stands above you like everything
 is going as planned as thought how it shines
@@ -15,6 +15,7 @@ or the sun opened its mouth blew me
 to the ground in. It looks different tonight.
 Some kind of photo grid meant to be read
 from right to left.
+</p>
 
 2.
 
