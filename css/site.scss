@@ -50,6 +50,7 @@ $line-height:1.3em;
   background: url('../logo.png');
   background-size: cover;
 }
+
 /* introjs */
 .introjs-helperNumberLayer {
   background: #aaa;
@@ -68,8 +69,8 @@ $line-height:1.3em;
 
   .slides > section {
     height:100%;
-    width:70%;
-    margin:0 15%;
+    width:75%;
+    margin:0 12.5%;
     overflow-x:hidden;
     overflow-y:auto;
   }
@@ -101,8 +102,26 @@ $line-height:1.3em;
   }
 
   p {
-    margin-top:0;
-    font-size:0.75em;
+    display:block;
+    font-size:0.7em;
+    margin:$line-height 0 0 0;
+
+    /* for indents */
+    span {
+      display:inline-block;
+    }
+  }
+
+  /* treat white space differently, prose vs poem*/
+  section {
+    &.prose p {
+      white-space: pre-wrap;
+      /*text-indent:1.3em;*/
+    }
+
+    &.poem p {
+      white-space: pre;
+    }
   }
 
   a {
