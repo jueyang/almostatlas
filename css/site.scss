@@ -15,10 +15,10 @@ $line-height:1.3em;
 }
 
 /* indent */
-.none {text-indent:0% !important;} /* for first paragraphs in proses */
-.left {text-indent:10%;}
-.middle {text-indent:20%;}
-.right {text-indent:40%;}
+.align-none {text-indent:0% !important;} /* for first paragraphs in proses */
+.align-left {text-indent:10%;}
+.align-middle {text-indent:20%;}
+.align-right {text-indent:40%;}
 
 .constant {
   position:absolute;
@@ -122,7 +122,6 @@ $line-height:1.3em;
   section {
     &.prose p {
       white-space: pre-wrap;
-      /*text-indent:1.3em;*/
     }
 
     &.poem p {

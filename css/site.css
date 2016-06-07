@@ -10,17 +10,17 @@
   width: 0; }
 
 /* indent */
-.none {
+.align-none {
   text-indent: 0% !important; }
 
 /* for first paragraphs in proses */
-.left {
+.align-left {
   text-indent: 10%; }
 
-.middle {
+.align-middle {
   text-indent: 20%; }
 
-.right {
+.align-right {
   text-indent: 40%; }
 
 .constant {
@@ -64,7 +64,7 @@
   .reveal .slides > section {
     height: 100%;
     width: 75%;
-    margin: 0 15%;
+    margin: 0 12.5%;
     overflow-x: hidden;
     overflow-y: auto; }
   .reveal section img {
@@ -94,8 +94,7 @@
     .reveal p span {
       display: inline-block; }
   .reveal section.prose p {
-    white-space: pre-wrap;
-    /*text-indent:1.3em;*/ }
+    white-space: pre-wrap; }
   .reveal section.poem p {
     white-space: pre; }
   .reveal a {
@@ -116,26 +115,16 @@
     height: 60px; } }
 
 @media screen and (max-width: 480px) {
-  /*
-  .constant, .constant small p {
-    visibility:hidden;
-    z-index:-1;
-  }
-
-  .reveal {
-    .slides {
-      top:2em;
-      height:1000px!important;
-      transform: translate(-50%, -50%) scale(0.4)!important;
-    }
-
-    h1 {
-      font-size:2.5em;
-    }
-
-    h2 {
-      font-size:2em;
-    }
-
-  }
-*/ }
+  .constant {
+    position: absolute;
+    top: -1.42em;
+    left: 0.42em; }
+  .reveal .slides {
+    top: 2em;
+    bottom: 0;
+    height: 1000px !important;
+    transform: translate(-50%, -50%) scale(0.4) !important; }
+  .reveal h1 {
+    font-size: 2.5em; }
+  .reveal h2 {
+    font-size: 2em; } }
