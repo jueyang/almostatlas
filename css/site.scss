@@ -158,17 +158,19 @@ $line-height:1.3em;
 }
 
 @media screen and (max-width: 480px) {
-/*
-  .constant, .constant small p {
-    visibility:hidden;
-    z-index:-1;
+  .constant {
+    position:absolute;
+    top:-1.42em;
+    left:0.42em;
   }
 
   .reveal {
     .slides {
       top:2em;
+      bottom:0;
       height:1000px!important;
       transform: translate(-50%, -50%) scale(0.4)!important;
+
     }
 
     h1 {
@@ -180,5 +182,5 @@ $line-height:1.3em;
     }
 
   }
-*/
+
 }
