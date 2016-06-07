@@ -71,7 +71,7 @@ or from the things that broke down
 into them. Radioactive materials, say,
 
 or the queer little prince the royal family had
-buried at sea. I need to believe this arrangment
+buried at sea. I need to believe this arrangement
 
 is strictly necessary; that however many
 shecells I claw through I'll emerge

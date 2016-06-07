@@ -3,7 +3,7 @@
 
 1.
 
-<p>You need the sun if you want to stop
+You need the sun if you want to stop
 fast action. The sun wins every single time.
 The way it stands above you like everything
 is going as planned as thought how it shines
@@ -15,7 +15,6 @@ or the sun opened its mouth blew me
 to the ground in. It looks different tonight.
 Some kind of photo grid meant to be read
 from right to left.
-</p>
 
 2.
 
@@ -70,7 +69,7 @@ the image. Get as close as you possibly can.
 9.
 
 The third thing you touch is a complex area
-named by Natacha in high school.
+named by Natacha in high school. Chicos.
 
 10.
 

@@ -30,7 +30,7 @@ he has a heightened sense of smell and knows this is not
 body back to bed and forget
 </p>
 
-<p class='middle'>you have a voice.</p>
+<p class='align-middle'>you have a voice.</p>
 
 <p>fail to understand that orgasm and sound are simply
 vibrations passing through narrow and damp spaces
@@ -53,46 +53,47 @@ a mercy.
 
 How I was made:                    “I see you. You are a part of me.”
 
-<p class="left"><em>The mark of greatness</em></p>
+<p class="align-left"><em>The mark of greatness</em></p>
 
 I don’t remember what I was before you what I was isn’t memorable
 
-<p>is when
-you were worried I would go crazy.
+<em>is when</em>
+
+<p>you were worried I would go crazy.
      I did.  but I am not lot’s wife—I look and look
                at the ruins (me) and do not die.
 </p>
 
-<p class="middle"><em>everything before you</em></p>
+<p class="align-middle"><em>everything before you</em></p>
 
 I don’t remember how I was before you how I was isn’t memorable
 
-<p class='right'><em>is obsolete</em></p>
+<p class='align-right'><em>is obsolete</em></p>
 
-<p class="middle">           what to call this: murder?
-<span class="middle">                    maturity?</span>
+<p class="align-middle">           what to call this: murder?
+<span class="align-middle">                    maturity?</span>
 </p>
 
 I don’t remember where I was before you where I was isn’t memorable
 
 <em>and everything after</em>
 
-<p class="middle">to survive I unremember: how to know, your unlistening
-<span class="middle">     deadweight, a short film starring your ex</span>
-<span class="middle">& her nimbus of hair,</span>
+<p class="align-middle">to survive I unremember: how to know, your unlistening
+<span class="align-middle">     deadweight, a short film starring your ex</span>
+<span class="align-middle">& her nimbus of hair,</span>
 </p>
 
-<p class="right"><em>                    you</em></p>
+<p class="align-right"><em>                    you</em></p>
 
-<p class='left'>  I keep: your hand under my dress in a movie theater,
-<span class="left">                your head on my shoulder in a movie theater, 28 snores</span>
-<span class="left">                of perfume on my neck.</span>
+<p class='align-left'>  I keep: your hand under my dress in a movie theater,
+<span class="align-left">                your head on my shoulder in a movie theater, 28 snores</span>
+<span class="align-left">                of perfume on my neck.</span>
 </p>
 
 I don’t remember why I was before you why I was isn’t memorable
 
-<p class="middle"><em>bears your mark.</em></p>
+<p class="align-middle"><em>bears your mark.</em></p>
 
-<p class="right">all things question their makers—
-<span class="right">if you did not love me, then why?</span>
+<p class="align-right">all things question their makers—
+<span class="align-right">if you did not love me, then why?</span>
 </p>

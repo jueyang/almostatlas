@@ -1,6 +1,5 @@
 ## The Tap Water Tastes of Chlorine
-
-Theis Ørntoft, translated from the Danish by Julia Cohen & Jens Bjering
+## Theis Ørntoft, translated from the Danish by Julia Cohen & Jens Bjering
 from the section "Black Frequency" and "Arctic Command" (Digte 2014)
 
 The tap water tastes of chlorine.
