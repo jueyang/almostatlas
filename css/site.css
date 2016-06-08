@@ -82,6 +82,8 @@
       font-family: inherit; }
   .reveal p, .reveal ul, .reveal ol, .reveal li, .reveal a {
     font-family: "EB Garamond", serif; }
+  .reveal a:hover {
+    color: #000; }
   .reveal h1 {
     font-size: 1.5em; }
   .reveal h2 {
