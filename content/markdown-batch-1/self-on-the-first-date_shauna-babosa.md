@@ -69,7 +69,7 @@ the image. Get as close as you possibly can.
 9.
 
 The third thing you touch is a complex area
-named by Natacha in high school. Chicos.
+named by Natacha in high school. Chichos.
 
 10.
 
