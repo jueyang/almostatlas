@@ -1,0 +1,132 @@
+/* no scroll showing */
+::-webkit-scrollbar {
+  width: 0em;
+  display: none; }
+
+::-webkit-scrollbar-track {
+  width: 0; }
+
+::-webkit-scrollbar-thumb {
+  width: 0; }
+
+/* indent */
+.align-none {
+  text-indent: 0% !important; }
+
+/* for first paragraphs in proses */
+.align-left {
+  text-indent: 10%; }
+
+.align-middle {
+  text-indent: 20%; }
+
+.align-right {
+  text-indent: 40%; }
+
+.constant {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  z-index: 100; }
+  .constant .control {
+    margin-top: 1em; }
+  .constant small {
+    display: block;
+    font-family: "Six Caps", sans-serif;
+    font-size: 0.6em;
+    letter-spacing: 0.1em;
+    cursor: pointer; }
+    .constant small span {
+      display: inline-block;
+      width: 30px; }
+
+#logo {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background: url("../logo.png");
+  background-size: cover; }
+
+/* introjs */
+.introjs-helperNumberLayer {
+  background: #aaa; }
+
+.introjs-tooltip {
+  font-family: "EB Garamond", serif;
+  line-height: 1.45em; }
+
+/* reveal js */
+.reveal {
+  overflow-x: hidden;
+  /*overflow-y:scroll;*/
+  /* special font for italics */
+  /* treat white space differently, prose vs poem*/ }
+  .reveal .slides > section {
+    height: 100%;
+    width: 75%;
+    margin: 0 12.5%;
+    overflow-x: hidden;
+    overflow-y: auto; }
+  .reveal section img {
+    border: none;
+    box-shadow: none; }
+  .reveal em {
+    font-family: 'IM Fell DW Pica', serif !important;
+    font-size: 0.85em !important; }
+  .reveal h1, .reveal h2, .reveal h3, .reveal p, .reveal ul, .reveal ol, .reveal li, .reveal a {
+    font-weight: 400;
+    text-align: left; }
+  .reveal h1, .reveal h2, .reveal h3 {
+    font-family: "Six Caps", sans-serif; }
+    .reveal h1 a, .reveal h2 a, .reveal h3 a {
+      font-family: inherit; }
+  .reveal p, .reveal ul, .reveal ol, .reveal li, .reveal a {
+    font-family: "EB Garamond", serif; }
+  .reveal a:hover {
+    color: #000; }
+  .reveal h1 {
+    font-size: 1.5em; }
+  .reveal h2 {
+    font-size: 0.75em; }
+  .reveal p {
+    display: block;
+    font-size: 0.7em;
+    margin: 1.3em 0 0 0;
+    /* for indents */ }
+    .reveal p span {
+      display: inline-block; }
+  .reveal section.prose p {
+    white-space: pre-wrap; }
+  .reveal section.poem p {
+    white-space: pre; }
+  .reveal a {
+    color: #444; }
+
+@media screen and (max-width: 600px) {
+  .constant .control {
+    margin-top: 0; }
+  .constant small {
+    visibility: hidden;
+    display: inline-block;
+    margin-right: 0.6em;
+    font-size: 0.45em; }
+    .constant small p {
+      visibility: visible; }
+  #logo {
+    width: 60px;
+    height: 60px; } }
+
+@media screen and (max-width: 480px) {
+  .constant {
+    position: absolute;
+    top: -1.42em;
+    left: 0.42em; }
+  .reveal .slides {
+    top: 2em;
+    bottom: 0;
+    height: 1000px !important;
+    transform: translate(-50%, -50%) scale(0.4) !important; }
+  .reveal h1 {
+    font-size: 2.5em; }
+  .reveal h2 {
+    font-size: 2em; } }

@@ -1,4 +1,4 @@
 .sass-cache
-node_modules
-content/source
-css/.sass-cahe
+archive/*/node_modules
+archive/content
+archive/*/css/.sass-cahe
