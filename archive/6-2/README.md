@@ -1,1 +1,0 @@
-![](http://theatlasreview.com/wp-content/themes/atlas-theme/atlas-logo.jpg)
