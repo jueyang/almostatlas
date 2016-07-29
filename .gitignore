@@ -1,4 +1,3 @@
 .sass-cache
-archive/*/node_modules
-archive/content
-archive/*/css/.sass-cahe
+*/*/css/.sass-cahe
+*/*/node_modules
