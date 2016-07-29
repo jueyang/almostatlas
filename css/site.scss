@@ -1,0 +1,220 @@
+$line-height:1.3em;
+
+/* no scroll showing */
+::-webkit-scrollbar {
+    width: 0em;
+    display:none;
+}
+
+::-webkit-scrollbar-track {
+  width: 0;
+}
+
+::-webkit-scrollbar-thumb {
+  width:0;
+}
+
+/* spacing for poems */
+
+.align-left {text-indent:10%;}
+.align-middle {text-indent:20%;}
+.align-right {text-indent:40%;}
+
+.clear {clear:both;}
+
+.constant {
+  position:absolute;
+  top:1em;
+  right:1em;
+  z-index:100;
+
+  .control {
+    margin-top:1em;
+  }
+
+  small {
+    display:block;
+    font-family:"Six Caps", sans-serif;
+    font-size:0.6em;
+    letter-spacing: 0.1em;
+    cursor:pointer;
+
+    span {
+      display:inline-block;
+      width:30px;
+    }
+  }
+}
+
+#logo {
+  display:block;
+  width:100px;
+  height:100px;
+  background: url('../logo.png');
+  background-size: cover;
+}
+
+/* introjs */
+.introjs-helperNumberLayer {
+  background: #aaa;
+}
+
+.introjs-tooltip {
+  font-family:"EB Garamond", serif;
+  line-height:1.45em;
+}
+
+/* reveal js */
+.reveal {
+
+  overflow-x:hidden;
+  /*overflow-y:scroll;*/
+
+  .slides > section {
+    height:100%;
+    width:75%;
+    margin:0 12.5%;
+    overflow-x:hidden;
+    overflow-y:auto;
+  }
+
+  section img {
+    border:none;
+    box-shadow:none;
+  }
+
+  /* special font for italics */
+  em {
+    font-family: 'IM Fell DW Pica', serif !important;
+    font-size:0.85em !important;
+  }
+
+  h1, h2, h3, p, ul, ol, li, a {
+    font-weight:400;
+    text-align:left;
+  }
+
+  h1, h2, h3 {
+    font-family:"Six Caps", sans-serif;
+    a {font-family: inherit;}
+  }
+
+  p, ul, ol, li, a {
+    font-family:"EB Garamond", serif;
+  }
+
+  a:hover {
+    color:#000;
+  }
+
+  h1 {
+    font-size:1.5em;
+  }
+
+  h2 {
+    font-size:0.75em;
+  }
+
+  p {
+    display:block;
+    font-size:0.7em;
+    margin:$line-height 0 0 0;
+
+
+    /* for indents */
+    span {
+      display:inline-block;
+    }
+
+    /* add some space to the bottom of each page, applies to all types of articles*/
+    &:last-of-type {
+      margin-bottom:2em;
+    }
+
+  }
+
+  /* treat white space differently, prose vs poem*/
+  section {
+
+    p.divider { /* text dividers within the same page*/
+      height:1em;
+      text-indent:0!important;
+      &:before {
+        content:'*';
+        position: relative;
+        margin:50%;
+      }
+    }
+
+    &.prose p {
+      white-space: pre-wrap;
+      text-indent: 8%;
+      &:first-of-type {
+        text-indent: 0 !important;
+      }
+    }
+
+    &.poem p {
+      white-space: pre;
+    }
+
+    &.hybrid p{ /* for proses that do not want indentation*/
+      white-space: pre-wrap;
+    }
+  }
+
+  a {
+    color:#444;
+  }
+
+}
+
+@media screen and (max-width: 600px) {
+  .constant {
+    .control {margin-top:0;}
+
+    small {
+      visibility: hidden;
+      display: inline-block;
+      margin-right:0.6em;
+      font-size:0.45em;
+
+      p {
+        visibility:visible;
+      }
+    }
+  }
+
+  #logo {
+    width:60px;
+    height:60px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .constant {
+    position:absolute;
+    top:-1.42em;
+    left:0.42em;
+  }
+
+  .reveal {
+    .slides {
+      top:2em;
+      bottom:0;
+      height:1000px!important;
+      transform: translate(-50%, -50%) scale(0.4)!important;
+
+    }
+
+    h1 {
+      font-size:2.5em;
+    }
+
+    h2 {
+      font-size:2em;
+    }
+
+  }
+
+}
