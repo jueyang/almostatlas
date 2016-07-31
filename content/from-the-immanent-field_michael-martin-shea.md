@@ -1,4 +1,4 @@
-<h1><em style='font-size:0.5em!important;'>from</em> The Immanent Field</h1>
+# *from* The Immanent Field
 ## Michael Martin Shea
 
 <p class="divider"></p>

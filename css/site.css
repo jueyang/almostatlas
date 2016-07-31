@@ -72,6 +72,8 @@
   .reveal em {
     font-family: 'IM Fell DW Pica', serif !important;
     font-size: 0.85em !important; }
+  .reveal h1 em {
+    font-size: 0.5em !important; }
   .reveal h1, .reveal h2, .reveal h3, .reveal p, .reveal ul, .reveal ol, .reveal li, .reveal a {
     font-weight: 400;
     text-align: left; }
