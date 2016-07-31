@@ -98,12 +98,12 @@ $line-height:1.3em;
     text-align:left;
   }
 
-  h1, h2, h3 {
+  h1, h2 {
     font-family:"Six Caps", sans-serif;
     a {font-family: inherit;}
   }
 
-  p, ul, ol, li, a {
+  h3, p, ul, ol, li, a {
     font-family:"EB Garamond", serif;
   }
 
@@ -124,6 +124,12 @@ $line-height:1.3em;
 
   h2 {
     font-size:0.75em;
+  }
+
+  h3 {
+    font-size:1em;
+    text-transform: none;
+    margin:$line-height 0 0 0;
   }
 
   p {
