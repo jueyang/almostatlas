@@ -87,6 +87,11 @@
     color: #000; }
   .reveal h1 {
     font-size: 1.5em; }
+    .reveal h1 span {
+      display: inline-block;
+      margin-left: 0.55em;
+      font-size: 0.55em;
+      color: #676767; }
   .reveal h2 {
     font-size: 0.75em; }
   .reveal p {
