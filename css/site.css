@@ -106,8 +106,10 @@
       margin-bottom: 2em; }
   .reveal section p.divider {
     /* text dividers within the same page*/
-    height: 1em;
-    text-indent: 0 !important; }
+    height: 1em; }
+    .reveal section p.divider, .reveal section p.divider + p {
+      /* divider and the paragraph following will not have an indent */
+      text-indent: 0 !important; }
     .reveal section p.divider:before {
       content: '*';
       position: relative;

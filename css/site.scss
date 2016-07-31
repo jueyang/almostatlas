@@ -149,13 +149,16 @@ $line-height:1.3em;
 
     p.divider { /* text dividers within the same page*/
       height:1em;
-      text-indent:0!important;
+      &, & + p { /* divider and the paragraph following will not have an indent */
+        text-indent:0!important;
+      }
       &:before {
         content:'*';
         position: relative;
         margin:50%;
       }
     }
+
 
     &.prose p {
       white-space: pre-wrap;
