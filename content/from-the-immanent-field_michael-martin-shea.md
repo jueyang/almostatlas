@@ -1,14 +1,18 @@
 # *from* The Immanent Field
 ## Michael Martin Shea
 
-<p class="divider"></p>
-
 The first time I had sex I was too drunk to remember it ⋅A political machine made entirely out of babies ⋅ The first affair occurred in a different time zone, or in a different zone of time ⋅ On the train, a politic of still-living bodies ⋅ Zoning laws prevent the poor from occupying our sense of nation ⋅ On the train from Portland I ate a pot brownie and kept picturing my body careening from the window ⋅ The zone of the law inverts what it calls our real lives ⋅ What music makes is not imaginary ⋅ I’m calling on you, lord of the tropical nausea ⋅ The garden house was the full sum of our outer imagination ⋅ I’m calling on you, lord of the remote handjobs ⋅ I’m thankful enough not to have the outward signs of perversion ⋅ Lorded over like some kind of porcupine nocturne ⋅ I’m thankful now for the deliverance of babies ⋅ Like some kind of pork rind straight from the mini-mart ⋅ Abjection delivery service is available for an additional fee ⋅ The Martian experience was cancelled because we couldn’t get along here ⋅ The artist must always resist being in service to empire ⋅ Cancellation of our grand narrative was met with resistance from originating parties ⋅ The artist’s relation to the object of art is one of both service and pity ⋅ Taking pot shots at our grandest achievement: the bank ⋅ The object of art is not to lay prone in the backyard while the morning glories wither
 
-<p class="divider"></p>
+---
+
+# *from* The Immanent Field
+## Michael Martin Shea
 
 A line continues forever regardless of our feeble presence ⋅A tenuous attempt to prove my capacity for human emotion ⋅ Presently, I don’t think about death so long as I’m moving forward ⋅ I capsized my little boat in brackish waters and waited for the warmth ⋅ I moved across the country to live with a beautiful and fearsome woman ⋅ What houses of warmth we offer, wringing our selves ⋅ I’m in love with a woman who lives in the bathtub ⋅ The house of our elder lords is itself a minor shadow ⋅ Love does not extend itself as a purgatory for other loves ⋅ The minority of my art is a result of my utter comfort ⋅ Pages of work only prove that I was alone with myself ⋅ A comfortable robe robs the artist of productive fire ⋅ Disrupted and alone, suffused and alone, throwing our cell phones at the wall and alone ⋅ In church, I was told to be “on fire” for god without explanation ⋅ A casual case of loneliness can lurk in any apartment ⋅ “Poetry isn’t about anything” is a way of explaining that I have no idea what I’m doing ⋅ I let myself in using the key under the mat and promptly went about searching for BDSM paraphernalia ⋅ A presumption of knowing is in alignment with the holders of law ⋅ I let myself believe that the desperation of others secured my future ⋅ I know the shadows that come with internet porn ⋅ The future belongs to WalMart and all its naked stockholders ⋅ I named my first child Pornografica, after her mother
 
-<p class="divider"></p>
+---
+
+# *from* The Immanent Field
+## Michael Martin Shea
 
 What the collective wants is often boring, like the movies ⋅I was called upon to donate my body to the artist’s fund ⋅ Just wanting a more engaged and loving society has never stopped a drug war ⋅ Once, she called me “babe” ⋅ I was engaged to a fabricated life plan ⋅ She called me “drummer boy” ⋅ The fabric of my days grew pills from over-washing ⋅ She called me from San Antonio to say that she’d been assaulted ⋅ Fabricated currency still buys the lives of real artists ⋅ She called herself a cheater but it was the afternoon and I was too drunk to understand what she really meant ⋅ The artistic temperament is no license to be a negligible asshole ⋅ A proliferation of pronouns precludes the easy separation of the sections of my life ⋅ Temperance as faith in your natural abilities ⋅ A finite sectioning as required by our fallible senses ⋅ I am not able to see my life as a continuation of object-states ⋅ Where are the space rangers who promised us infinite planets? ⋅ I’m the guy with the shovel who’s yelling “We don’t have to be afraid anymore” to no one in particular ⋅ The space required for communal action restricted by zoning laws and apartment-style housing ⋅ I’m the guy sharpening his shovel in the bathroom and dreaming of exotic pizzas ⋅ The death of our parents had us zoned for re-development ⋅ The absurdity of my life does not necessitate digging a big hole to fall into
