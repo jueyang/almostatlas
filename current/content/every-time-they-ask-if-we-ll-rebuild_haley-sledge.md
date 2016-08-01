@@ -37,7 +37,7 @@ everyone knows it’s not the eye to be scared of. on every porch in town the ro
 
 ### If You Refuse to Leave, You Will Not Have Cause of Action for Death, Damages, or Injuries Against the State, Any Political Subdivision, or Agency. You Will Not Be Rescued. You Will Not Be Provided with Lifesaving Assistance:
 
-every day for weeks no power every day for weeks no school every day for weeks no work every day for weeks we drive to the dying house hold our breath try not to vomit here’s a shovel, here’s a mask, did you get your tetanus shot yet? are you sure, don’t touch that with your skin it’ll kill you and get those babies out of here don’t let it touch their little eyes too much too much too much too soon it’ll grow in there in their brains and they’ll remember the sight, but we can’t keep them from the smell—-we’ll always remember the smell
+every day for weeks no power every day for weeks no school every day for weeks no work every day for weeks we drive to the dying house hold our breath try not to vomit here’s a shovel, here’s a mask, did you get your tetanus shot yet? are you sure, don’t touch that with your skin it’ll kill you and get those babies out of here don’t let it touch their little eyes too much too much too much too soon it’ll grow in there in their brains and they’ll remember the sight, but we can’t keep them from the smell-we’ll always remember the smell
 
 
 *statistically, the longer a resident lives on the Gulf Coast the less likely they are to evacuate for a hurricane
