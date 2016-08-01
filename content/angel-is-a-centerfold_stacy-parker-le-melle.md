@@ -7,7 +7,7 @@ I walk through Harmony House to the back to scan the rows of Top 40 45s displaye
 
 Nana gave me the money already and I take my album to the cash register up front. The young men ringing sales will be the same men who smile and flirt with me when I’m older. When I’m the age they sing about in songs: sixteen, seventeen. But also when I’m fifteen, fourteen, thirteen. I will be on a first name basis with the men because they kept those jobs for years, a kind of prestige job that won’t pay much, but has importance because it is music, even if this is still a corporate shop and not an independent. When my purchase is placed in a bag and handed to me, I meet my Nana outside, in the aisle of this atrium wing of the mall.
 
-*What did you get?* I pull out the record to show her. She looks pleased for me. She is reading the song list. She stops on “Centerfold.” *Centerfold? Do you know what a centerfold is?*
+*What did you get*? I pull out the record to show her. She looks pleased for me. She is reading the song list. She stops on “Centerfold.” *Centerfold? Do you know what a centerfold is*?
 
 I know the hit single and its chorus of schoolyard chants. I know the video with pretty girls dancing in a classroom. And yes, I know what a centerfold is. *It’s the picture in the middle of a magazine. Like a poster!* Like the one I will later pull out from a teen magazine, the poster of Michael Jackson, with the creases I can never smooth away, the telltale sign that a poster was once folded and not as valuable anymore, yes, that is what a centerfold is to me, and while my Nana does not say anything more, I never forget her piercing concern. The way she let me know she had so much more to say but would not.
 
@@ -75,7 +75,7 @@ That’s possible. Right?
 
 It’s 1998, I’m 24, and late night for me is even later for my boyfriend, because he’s calling from England, from his parents’ house in Essex near the sea, the semi-detached home that reveals their privileged middle-class status. But since he is a graduate student, with no job, he is spending his mother’s money to call me, expensive Ps, more expensive per minute than the 10 cents I’m charged by Sprint. I budget $200 a month for our calls. I know he has something he really wants to say. While I work in America and he finishes school in England I want to keep this young love alive, but on this night, when I’ve answered the phone quickly so my roommate won’t be awakened, he has said ten words and I know he’s drunk. He can speak his English with a certain savoring of the syllables, again, the privilege, the delight in the language of his heritage and place but tonight, there are extra lags and I know that my boyfriend is not home, that I am with his shadow.
 
-*I was on the Internet today,* he said. *Do you know what I saw?*
+*I was on the Internet today,* he said. *Do you know what I saw*?
 
 *No.*
 
@@ -83,7 +83,7 @@ It’s 1998, I’m 24, and late night for me is even later for my boyfriend, bec
 
 *I saw you in a picture,* he added.
 
-*What kind of picture?* I ask, seized with anxiety.
+*What kind of picture*? I ask, seized with anxiety.
 
 *You know what kind.*
 

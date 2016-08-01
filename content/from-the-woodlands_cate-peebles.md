@@ -1,4 +1,4 @@
-# *from* Woodlands
+# *from* the Woodlands
 ## Cate Peebles
 
 <p style="width:35%;text-align:justify;">There’s chairs & more chairs that look like all the other chairs but are also slightly different by virtue of curve, color, material & blink there are tables now, beds & beds & beds, where will I sleep & wait & hold & curse & blame & snooze into the future, as we’re here to choose a cozy setting for my wanting & my wishing to not want anything from anyone, which only makes the want & wish too bold, but are we not tame towel racks & terrifying paisley duvets all at once in our impossible to pronounce Nordic habitats—so THIS is how to screw your past life into the present tabletop that holds our cheese & seltzer—& we wonder if this hand-woven rug will make it all better once & for all with its tightly knit piles complete & uniform, this maze of how-to instructions to build your whole life more pleasantly cannot wrench our dismantled & mutable alliance nor construct for us any pictorial solutions when we stare deep into the hamster’s  eyes through mute glass & search for the correct dried krill to feed the tropical fish
