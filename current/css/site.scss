@@ -148,6 +148,9 @@ $line-height:1.3em;
       margin-bottom:2em;
     }
 
+    &.justified {
+      text-align:justify!important;
+    }
   }
 
   /* treat white space differently, prose vs poem*/
