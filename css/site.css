@@ -9,7 +9,7 @@
 ::-webkit-scrollbar-thumb {
   width: 0; }
 
-/* spacing for poems */
+/* special alignments and blocking */
 .align-left {
   text-indent: 10%; }
 
@@ -21,6 +21,9 @@
 
 .clear {
   clear: both; }
+
+.justified {
+  text-align: justify !important; }
 
 .constant {
   position: absolute;
@@ -108,8 +111,6 @@
       display: inline-block; }
     .reveal p:last-of-type {
       margin-bottom: 2em; }
-    .reveal p.justified {
-      text-align: justify !important; }
   .reveal section p.divider {
     /* text dividers within the same page*/
     height: 1em; }
@@ -143,24 +144,55 @@
     font-size: 0.45em; }
     .constant small p {
       visibility: visible; }
-
+      .constant small p:last-of-type {
+        position: absolute;
+        top: 2em;
+        right: 0; }
   #logo {
     width: 60px;
     height: 60px; } }
-@media screen and (max-width: 480px) {
+
+@media only screen and (max-width: 480px) {
   .constant {
-    position: absolute;
-    top: -1.42em;
-    left: 0.42em; }
-
+    width: 0;
+    top: 0;
+    left: 1.1em; }
+    .constant small p:last-of-type {
+      right: -18em; }
   .reveal .slides {
-    top: 2em;
-    bottom: 0;
     height: 1000px !important;
-    transform: translate(-50%, -50%) scale(0.4) !important; }
+    transform: translate(-49%, -48%) scale(0.36) !important; }
   .reveal h1 {
-    font-size: 2.5em; }
+    font-size: 2.5em;
+    margin-top: 1em; }
+    .reveal h1 span {
+      position: absolute;
+      left: -0.5em;
+      margin-top: -1.35em; }
   .reveal h2 {
-    font-size: 2em; } }
+    font-size: 2em; }
+  .reveal h3 {
+    font-size: 2em; }
+  .reveal section p {
+    font-size: 1em; } }
 
-/*# sourceMappingURL=site.css.map */
+@media only screen and (max-width: 736px) and (orientation: landscape) {
+  .constant {
+    top: 0;
+    left: 1em;
+    width: 0; }
+    .constant small p:last-of-type {
+      position: relative; }
+  .reveal h1 {
+    font-size: 2.5em;
+    margin-top: 1em; }
+    .reveal h1 span {
+      position: absolute;
+      left: -0.5em;
+      margin-top: -1.35em; }
+  .reveal h2 {
+    font-size: 2em; }
+  .reveal h3 {
+    font-size: 2em; }
+  .reveal section p {
+    font-size: 1em; } }
