@@ -1,13 +1,26 @@
-/* no scroll showing */
+/* no scroll showing
 ::-webkit-scrollbar {
-  width: 0em;
-  display: none; }
+    width: 0em;
+    display:none;
+}
+
+::-webkit-scrollbar-track {
+  width: 0;
+}
+
+::-webkit-scrollbar-thumb {
+  width:0;
+}*/
+::-webkit-scrollbar {
+  width: 10px; }
 
 ::-webkit-scrollbar-track {
   width: 0; }
 
 ::-webkit-scrollbar-thumb {
-  width: 0; }
+  border: 1px dotted #444;
+  border-radius: 10px;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAKElEQVQIW2NkQAOurq7/GZHFQAK7d+9mhAvCBECKwILIAmBBdAGQIAA5tRHUs2bPHgAAAABJRU5ErkJggg==) repeat; }
 
 /* special alignments and blocking */
 .align-left {
@@ -67,6 +80,7 @@
     height: 100%;
     width: 75%;
     margin: 0 12.5%;
+    padding: 0 1em;
     overflow-x: hidden;
     overflow-y: auto; }
   .reveal section img {
