@@ -3976,9 +3976,11 @@
 				// l, right
 				case 76: case 39: navigateRight(); break;
 				// k, up
-				case 75: case 38: navigateUp(); break;
+				//case 75: case 38: navigateUp(); break;
+				case 75: navigateUp(); break;
 				// j, down
-				case 74: case 40: navigateDown(); break;
+				//case 74: case 40: navigateDown(); break;
+				case 74: navigateDown(); break;
 				// home
 				case 36: slide( 0 ); break;
 				// end
