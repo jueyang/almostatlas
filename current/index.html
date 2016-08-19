@@ -104,8 +104,17 @@
 		<script src="lib/js/head.min.js"></script>
 		<script src="js/reveal.min.js"></script>
 		<script src="js/intro.min.js"></script>
+		<script src="js/zenscroll.js"></script>
 
 		<script>
+
+		  // TODO focus on the section.present node because the scrolling happens within
+
+			// document.onreadystatechange = function () {
+			// 	if (document.readyState === "complete") {
+			// 		var section = document.querySelectorAll('section.present')[0];
+			// 	}
+			// };
 
 			function goToIndex(){
 				if (Reveal.isOverview() === true){
