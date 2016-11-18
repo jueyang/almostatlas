@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Atlas Review - Issue 6 - 2</title>
+
+		<meta name="description" content="">
+		<meta name="author" content="">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/white.css" id="theme">
+		<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Six+Caps|EB+Garamond|IM+Fell+DW+Pica:400italic|Arapey:400italic'>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.1.0/introjs.min.css">
+		<link rel="stylesheet" href="css/site.css">
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+		<div class="reveal">
+			<div class="constant">
+				<small onclick="goToIndex();" id="step1">
+					<p id="logo"></p>
+					<p>Issue 6 - Episode 2</p>
+				</small>
+				<div class="control">
+					<small onclick="Reveal.prev();" id="step2"><span>←</span>Prev</small>
+					<small onclick="Reveal.next();" id="step3"><span>→</span>Next</small>
+					<small onclick="Reveal.toggleOverview();" id="step4"><span>∞</span>Overview</small>
+				</div>
+				<div class="control">
+					<small id="help" onclick="startIntro();">Help</small>
+				</div>
+			</div>
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h1><a style="background-color:#FDE8E9" href="#/1">angel is a centerfold</a><span>Stacy Parker Le Melle</span></h1>
+					<h1><a style="background-color:#F4A29E" href="#/2">asian in a redneck town</a><span>Diana Keren Lee</span></h1>
+					<h1><a style="background-color:#FFCDA5" href="#/3">every time they ask if we'll rebuild</a><span>Haley Sledge</span></h1>
+					<h1><a style="background-color:#E5C1BD" href="#/4"><em>from</em> the immanent field</a><span>Michael Martin Shea</span></h1>
+					<h1><a style="background-color:#EFE5DC" href="#/7"><em>from</em> the woodlands</a><span>Cate Peebles</span></h1>
+					<h1><a style="background-color:#FBF2C0" href="#/10">making love with a boston fern</a><span>Lauren Aimee Curtis</span></h1>
+					<h1><a style="background-color:#E3C0D3" href="#/11">system of safety</a><span>Nora Toomey</span></h1>
+				</section>
+				<section
+				class="prose"
+				data-markdown="../text-source/issue6-2/angel-is-a-centerfold_stacy-parker-le-melle.md"
+				data-charset="utf-8"
+				data-background="#FDE8E9">
+				</section>
+
+				<section
+				class="hybrid"
+				data-markdown="../text-source/issue6-2/asian-in-a-redneck-town_diana-keren-lee.md"
+				data-charset="utf-8"
+				data-background="#F4A29E">
+				</section>
+
+				<section
+				class="hybrid"
+				data-markdown="../text-source/issue6-2/every-time-they-ask-if-we-ll-rebuild_haley-sledge.md"
+				data-charset="utf-8"
+				data-background="#FFCDA5">
+				</section>
+
+				<section
+				class="hybrid"
+				data-markdown="../text-source/issue6-2/from-the-immanent-field_michael-martin-shea.md"
+				data-charset="utf-8"
+				data-background="#E5C1BD">
+				</section>
+
+				<section
+				class="hybrid"
+				data-markdown="../text-source/issue6-2/from-the-woodlands_cate-peebles.md"
+				data-charset="utf-8"
+				data-background="#EFE5DC">
+				</section>
+
+				<section
+				class="prose"
+				data-markdown="../text-source/issue6-2/making-love-with-a-boston-fern_lauren-aimee-curtis.md"
+				data-charset="utf-8"
+				data-background="#FBF2C0"></section>
+
+				<section
+				class="poem"
+				data-markdown="../text-source/issue6-2/system-of-safety_nora-toomey.md"
+				data-charset="utf-8"
+				data-background="#E3C0D3"></section>
+
+			</div>
+		</div>
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+		<script src="js/intro.min.js"></script>
+
+		<script>
+
+		  // TODO focus on the section.present node because the scrolling happens within
+
+			// document.onreadystatechange = function () {
+			// 	if (document.readyState === "complete") {
+			// 		var section = document.querySelectorAll('section.present')[0];
+			// 	}
+			// };
+
+			function goToIndex(){
+				if (Reveal.isOverview() === true){
+					Reveal.toggleOverview();
+					Reveal.slide(0);
+				} else {
+					Reveal.slide(0);
+				}
+			}
+
+			function startIntro(){
+				var intro = introJs();
+				intro.setOptions({
+					'showBullets': false,
+					'steps': [
+						{
+							element: '#step1',
+							intro: 'Click or tap here to return to the index page.',
+							position: 'left'
+						},
+						{
+							element: '#step2',
+							intro: 'Click, tap, or use the left arrow key for the previous page.',
+							position: 'left'
+						},
+						{
+							element: '#step3',
+							intro: "Click, tap, or use the right arrow key for the next page.",
+							position: 'left'
+						},
+						{
+							element: '#step4',
+							intro: 'Use arrow keys to navigate the overview. If you are on a phone. swipe!',
+							position: 'left'
+						}
+					]
+				});
+				intro.start();
+			}
+
+			Reveal.initialize({
+				controls: false,
+				progress: false,
+				history: true,
+				center: false,
+				transition: 'fade', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+			Reveal.configure({
+			  keyboard: {
+			    32: null
+			  }
+			});
+
+		</script>
+
+	</body>
+</html>

@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Atlas Review</title>
+
+		<meta name="description" content="">
+		<meta name="author" content="">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="../css/reveal.css">
+		<link rel="stylesheet" href="../css/theme/white.css" id="theme">
+		<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Six+Caps|EB+Garamond|IM+Fell+DW+Pica:400italic|Arapey:400italic'>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.1.0/introjs.min.css">
+		<link rel="stylesheet" href="../css/site.css">
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+		<div class="reveal">
+			<div class="constant">
+				<small onclick="goToIndex();" id="step1">
+					<p id="logo"></p>
+					<p>Issue 6 - Season 1</p>
+				</small>
+				<div class="control">
+					<small onclick="Reveal.prev();" id="step2"><span>←</span>Prev</small>
+					<small onclick="Reveal.next();" id="step3"><span>→</span>Next</small>
+					<small onclick="Reveal.toggleOverview();" id="step4"><span>∞</span>Overview</small>
+				</div>
+				<div class="control">
+					<small id="help" onclick="startIntro();">Help</small>
+				</div>
+			</div>
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h1><a style="background-color:#D0FFFD" href="#/1">dating dysphoric</a></h1>
+					<h1><a style="background-color:#D4D9FF" href="#/2">how to drain the brachial artery</a>, <a style="background-color:#D4D9FF" href="#/3">creation myth #18</a></h1>
+					<h1><a style="background-color:#F5D5FF" href="#/4">men and women in the town</a></h1>
+					<h1><a style="background-color:#FFD5E1" href="#/12">self on the first date</a></h1>
+					<h1><a style="background-color:#B4E1EC" href="#/13">species dysphoria</a></h1>
+					<h1><a style="background-color:#FFCC7A" href="#/14">the tap water tastes of chlorine</a></h1>
+					<h1><a style="background-color:#D5FFC5" href="#/15">unhelpable</a>, <a style="background-color:#D5FFC5" href="#/16">love poem with a line from frank stanford</a></h1>
+				</section>
+				<section
+				class="prose"
+				data-markdown="../text-source/6-1/dating-dysphoric_kofi-opam.md"
+				data-charset="utf-8"
+				data-background="#D0FFFD">
+				</section>
+
+				<section
+				class="poem"
+				data-markdown="../text-source/6-1/brachial-artery-and-creation-myth_tafisha-edwards.md"
+				data-charset="utf-8"
+				data-background="#D4D9FF">
+				</section>
+
+				<section
+				class="prose"
+				data-markdown="../text-source/6-1/men-and-women-in-the-town_diane-exavier.md"
+				data-charset="utf-8"
+				data-background="#F5D5FF">
+				</section>
+
+				<section
+				class="poem"
+				data-markdown="../text-source/6-1/self-on-the-first-date_shauna-babosa.md"
+				data-charset="utf-8"
+				data-background="#FFD5E1">
+				</section>
+
+				<section
+				class="poem"
+				data-markdown="../text-source/6-1/species-dysphoria_adrian-silbernagel.md"
+				data-charset="utf-8"
+				data-background="#B4E1EC">
+				</section>
+
+				<section
+				class="poem"
+				data-markdown="../text-source/6-1/the-tap-water-tastes-of-chlorine_julia-cohen-trans.md"
+				data-charset="utf-8"
+				data-background="#FFCC7A">
+				</section>
+
+				<section
+				class="prose"
+				data-markdown="../text-source/6-1/unhelpable-and-line-from-frank-stanford_ruth-baumann.md"
+				data-charset="utf-8"
+				data-background="#D5FFC5"></section>
+
+			</div>
+		</div>
+		<script src="../lib/js/head.min.js"></script>
+		<script src="../js/reveal.min.js"></script>
+		<script src="../js/intro.min.js"></script>
+
+		<script>
+
+			function goToIndex(){
+				if (Reveal.isOverview() === true){
+					Reveal.toggleOverview();
+					Reveal.slide(0);
+				} else {
+					Reveal.slide(0);
+				}
+			}
+
+			function startIntro(){
+				var intro = introJs();
+				intro.setOptions({
+					'showBullets': false,
+					'steps': [
+						{
+							element: '#step1',
+							intro: 'Click or tap here to return to the index page.',
+							position: 'left'
+						},
+						{
+							element: '#step2',
+							intro: 'Click, tap, or use the left arrow key for the previous page.',
+							position: 'left'
+						},
+						{
+							element: '#step3',
+							intro: "Click, tap, or use the right arrow key for the next page.",
+							position: 'left'
+						},
+						{
+							element: '#step4',
+							intro: 'Use arrow keys to navigate the overview. If you are on a phone. swipe!',
+							position: 'left'
+						}
+					]
+				});
+				intro.start();
+			}
+
+			Reveal.initialize({
+				controls: false,
+				progress: false,
+				history: true,
+				center: false,
+				transition: 'fade', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+			Reveal.configure({
+			  keyboard: {
+			    32: null
+			  }
+			});
+
+		</script>
+
+	</body>
+</html>
