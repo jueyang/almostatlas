@@ -1,7 +1,7 @@
-content-source
-*/css/site.css.map
-*/*/css/site.css.map
-*/css/.sass-cache
-*/*/css/.sass-cache
-*/node_modules
-*/*/node_modules
+text-source
+css/site.css.map
+*/css
+*/js
+*/lib
+*/plugin
+node_modules
